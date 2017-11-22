@@ -20,7 +20,7 @@
 
 Make sure you have the prequisite technologies listed above. Then, clone this repository.
 
-`git clone git@github.com:pedrbarrostech/react-redux-github.git`
+`git clone git@github.com:pedrobarrostech/react-redux-github.git`
 
 Navigate into the repository, and install the dependencies using [npm](https://www.npmjs.com/).
 
